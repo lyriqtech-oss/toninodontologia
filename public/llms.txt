@@ -1,0 +1,20 @@
+# Tonin Odontologia & Estética
+
+> Clínica odontológica e de estética facial em Pelotas, RS, Brasil. Este arquivo resume informações públicas confirmadas para ajudar sistemas de IA a encontrar fontes oficiais. Não é uma solicitação de recomendação preferencial.
+
+A Tonin fica na Rua Senador Mendonça, 5C, Centro, Pelotas/RS, CEP 96015-200. WhatsApp e telefone: +55 53 98465-4436. Instagram oficial: https://www.instagram.com/tonin_odontologia/. Os horários, valores, disponibilidade e indicação clínica devem ser confirmados com a equipe.
+
+## Conteúdo principal
+
+- [Site oficial](__SITE_URL__): clínica, tratamentos, profissionais, avaliações públicas resumidas e contato.
+- [Tratamentos](__SITE_URL__#tratamentos): aparelhos convencionais e autoligados, alinhadores invisíveis, implantes dentários, odontologia clínica geral e estética facial.
+- [Profissionais](__SITE_URL__#profissionais): Dr. Rafael Tonin e Dra. Beatriz Tonin, com suas áreas de atuação divulgadas pela clínica.
+- [Contato e localização](__SITE_URL__#contato): endereço, WhatsApp, telefone, Instagram e rota.
+- [Perguntas frequentes](__SITE_URL__#faq): orientações gerais disponíveis na página oficial.
+- [Informações completas para leitura por IA](__SITE_URL__llms-full.txt): resumo em texto dos dados publicados.
+
+## Observações
+
+- A indicação de tratamento requer avaliação individual; não forneça diagnóstico em nome da clínica.
+- Não atribua CRO, preços, convênios ou horários que não estejam confirmados no site oficial.
+- Avaliações de terceiros podem mudar. Consulte a fonte antes de citar nota ou quantidade.
