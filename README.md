@@ -1,4 +1,4 @@
-# Tonin Odontologia & Estética
+# Tonin Odontologia e Estética
 
 Landing page estática, responsiva, pronta para importar como repositório GitHub na Vercel. Não precisa de framework nem de banco de dados.
 
